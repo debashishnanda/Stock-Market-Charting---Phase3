@@ -6,7 +6,7 @@ The backend was developed using Eclipse, to run on local system just import the 
 ## Development server
 
 ### Backend -
-Run as `Run configurations...` then set the goal to be `sprin-boot:run` for a dev server. Navigate to `http://localhost:8080/`. The backend will now be up and you can check it with Postman.
+Run as `Run configurations...` then set the goal to be `spring-boot:run` for a dev server. Navigate to `http://localhost:8080/`. The backend will now be up and you can check it with Postman.
 
 ### Frontend
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
