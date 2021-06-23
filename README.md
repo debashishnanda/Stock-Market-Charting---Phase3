@@ -11,6 +11,14 @@ Run as `Run configurations...` then set the goal to be `spring-boot:run` for a d
 ### Frontend
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+You will always be registered as a user.
+
+Hence to access as the admin use this credential
+
+`username - debadmin`
+
+`password - debashish`
+
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
