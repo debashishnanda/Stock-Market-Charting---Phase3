@@ -1,0 +1,27 @@
+.file-input {
+    display: none;
+  }
+
+.mat-card{
+  margin-top: 50px;
+}
+
+.form{
+  display: inline-block;
+}
+
+.file-upload{
+  padding-bottom: 20px;
+}
+
+.upload-btn{
+  background-color: rgb(0, 128, 255);
+}
+
+.span{
+  font-size: 150%;
+}
+
+.row{
+  padding-top: 20px;
+}
