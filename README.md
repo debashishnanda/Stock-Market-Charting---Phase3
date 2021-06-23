@@ -13,14 +13,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 You will always be registered as a user.
 
-## User Interface
-
-Hence to access as the admin use this credential
-
-`username - debadmin`
-
-`password - debashish`
-
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
